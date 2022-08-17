@@ -246,7 +246,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	myValidator "github.com/dakshbeniwal17/custom_validator/custom_validator"
+	myValidator "github.com/dakshbeniwal17/custom_validator"
 )
 
 type myStruct struct {
